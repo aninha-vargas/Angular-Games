@@ -1,0 +1,9 @@
+.footer{
+  margin-top: 50px;
+}
+.texto{
+  display: flex;
+  justify-content: center;
+  background-color: purple;
+  padding: 30px;
+}
